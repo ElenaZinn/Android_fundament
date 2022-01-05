@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id = "@+id/add_button"
+        android:text = "Add to Book"
+        android:textAllCaps = "false"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id = "@+id/query_button"
+        android:text = "Query from Book"
+        android:textAllCaps = "false"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id = "@+id/update_button"
+        android:text = "Update Book"
+        android:textAllCaps = "false"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id = "@+id/delete_button"
+        android:text = "Delete from Book"
+        android:textAllCaps = "false"
+        />
+
+
+
+</LinearLayout>
