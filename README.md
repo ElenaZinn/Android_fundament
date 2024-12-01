@@ -1,2 +1,3 @@
 # Android_fundament
-Test for git
+code is written in 2022
+refer to https://gitee.com/ElenaZhao/android_fundament.git
